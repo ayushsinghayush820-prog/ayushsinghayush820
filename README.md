@@ -1,16 +1,18 @@
-# ayushsinghayush820
-# Hi, I'm Ayush Singh
+## Hi, I'm Ayush Singh
+Actively building practical offensive and defensive security skills through CTF competitions, security tool development, and  security tool development
 
-I'm a beginner exploring the field of Cybersecurity. This profile documents my learning journey, projects, and progress.
+## Current focus
 
-## What I'm Learning
-- Networking fundamentals (OSI Model, IP addressing)
-- Python scripting for security tools
-- Basic cryptography
-- Linux and security concepts
+- CTF competitions (picoCTF / CyLab Security Academy — 52 challenges solved)
+- Linux system security and filesystem enumeration
+- Python security tooling
+- Network reconnaissance and protocol analysis
 
 ## Certifications
-- Cisco Introduction to Cybersecurity (Score: 87%)
+
+- Cisco Introduction to Cybersecurity — Score: 87% (June 2026)
+- CMU CyLab: General Skills in CTFs — 19/19 modules completed
+- CMU CyLab: Python in CTFs — 6/6 modules completed
 
 ## Projects
 - [Password Strength Checker](https://github.com/ayushsinghayush820-prog/Password-Strength-Checker)
@@ -18,8 +20,13 @@ I'm a beginner exploring the field of Cybersecurity. This profile documents my l
 - [Caesar Cipher Tool](https://github.com/ayushsinghayush820-prog/Caesar-Cipher-Tool)
 - [File Integrity Checker](https://github.com/ayushsinghayush820-prog/File-Integrity-Checker)
 
-## Currently Learning On
-- TryHackMe: [Profile Link](https://tryhackme.com/p/ayushsinghayush820)
+## CTF activity
+
+**Platform:** CyLab Security Academy (Carnegie Mellon affiliated)  
+**Challenges solved:** 21 (General Skills, Python, Cryptography)  
+**Learning paths:** General Skills in CTFs · Python in CTFs
+
 
 ## Goal
-Working towards building practical, hands-on skills in cybersecurity through consistent learning and projects.
+Contribute to India's cybersecurity infrastructure through 
+offensive security research and security engineering.
